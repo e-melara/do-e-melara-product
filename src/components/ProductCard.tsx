@@ -1,6 +1,6 @@
 import React from 'react'
 import { useProduct } from '../hooks/useProduct'
-import styles from 'src/styles/styles.module.css'
+import styles from '../styles/styles.module.css'
 
 import {
   Provider,

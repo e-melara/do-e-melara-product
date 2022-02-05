@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 
-import noImage from 'src/assets/no-image.jpg'
-import styles from 'src/styles/styles.module.css'
+import noImage from '../assets/no-image.jpg'
+import styles from '../styles/styles.module.css'
 
 import { ProductContext } from '../interfaces/interfaces'
 

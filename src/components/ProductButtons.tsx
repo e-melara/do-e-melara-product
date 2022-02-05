@@ -1,6 +1,6 @@
 import React, { useContext, useCallback } from 'react'
 
-import styles from 'src/styles/styles.module.css'
+import styles from '../styles/styles.module.css'
 import { ProductContext } from '../interfaces/interfaces'
 
 export interface Props {
