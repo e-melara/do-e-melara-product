@@ -34,7 +34,11 @@
     "trailingComma": "es5"
   },
   "name": "do-e-melara-product",
-  "author": "Edwin Melara",
+  "author": "Edwin Melara <edwin.melara.landaverde@gmail.com>",
+  "repository": {
+    "url": "https://github.com/e-melara/do-e-melara-product",
+    "type": "git"
+  },
   "module": "dist/do-e-melara-product.esm.js",
   "size-limit": [
     {
@@ -62,5 +66,10 @@
   },
   "dependencies": {
     "postcss": "^8.4.6"
-  }
+  },
+  "keywords": [
+    "react",
+    "CardProduct",
+    "Component"
+  ]
 }
